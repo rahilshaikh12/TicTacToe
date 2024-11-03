@@ -105,12 +105,6 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 - **Template Inspiration**: This TicTacToe game template was inspired by the format from [Genially](https://genially.com/template/tic-tac-toe-game/) Special thanks for providing a clear and organized structure.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 **Note**: To play the game, you'll need to download the project and run it using Android Studio on your computer. If you encounter any issues during setup or gameplay, please refer to the [Android Studio documentation](https://developer.android.com/studio/intro) or contact me via email.
 
 ---
